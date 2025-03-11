@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shawn Chow</h1>
-<h3 align="center">A passionate frontend developer from Singapore</h3>
+<h3 align="center">A software developer from Singapore</h3>
 
 - 🔭 I’m currently working on **ecommerce**
 
