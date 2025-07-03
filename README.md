@@ -54,6 +54,7 @@
 ### 🤖 Data Science and AI
 - 🍿 [Movie Revenue Prediction Model]
 - 🛞 [CartPole Reinforcement Learning Experimentation]
+- 🇸🇬 [ChatBot SG Tour Guide]
 
 ### OTHERS
 - 🏥 [Hospital Management System]
