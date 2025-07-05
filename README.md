@@ -55,6 +55,7 @@
 - 🍿 [Movie Revenue Prediction Model]
 - 🛞 [CartPole Reinforcement Learning Experimentation]
 - 🇸🇬 [ChatBot SG Tour Guide]
+- 🪪 [Employee QNA ChatBot quesion]
 
 ### OTHERS
 - 🏥 [Hospital Management System]
