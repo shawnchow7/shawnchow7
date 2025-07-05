@@ -9,17 +9,6 @@
 ## ⚙️ Tech Stack
 
 ### Programming Languages  
-<h1 align="center">🌟 Welcome to my GitHub profile! 🌟</h1>
-
-<p align="center">
-  Hello 👋, I'm Shawn, a Computer Science student at Nanyang Technological University. Interested in mainly software Development and Machine Learning fields.
-</p>
-
----
-
-## ⚙️ Tech Stack
-
-### Programming Languages  
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" style="margin-right: 10px;" />
