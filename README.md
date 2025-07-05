@@ -65,7 +65,7 @@
 - 🍿 [Movie Revenue Prediction Model]
 - 🛞 [CartPole Reinforcement Learning Experimentation]
 - 🇸🇬 [ChatBot SG Tour Guide]
-- 📋 [Employee Policy Q&A System](https://github.com/YOUR_USERNAME/employee-policy-qa) - *AI-powered PDF document analysis*
+- 📋 [Employee Policy Q&A System](https://github.com/shawnchow7/employee-policy-qa) - *AI-powered PDF document analysis*
 
 ### Others
 - 🏥 [Hospital Management System]
