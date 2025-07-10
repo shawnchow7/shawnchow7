@@ -51,8 +51,9 @@
 - 📘 [CareerFinder]
 
 ### 🤖 Data Science and AI
+- 🩺 [Organizing Medical Transcript](https://github.com/shawnchow7/Organizing-Medical-Transcript) - Using OpenAI
 - 🍿 [Movie Revenue Prediction Model]
-- 🛞 [CartPole Reinforcement Learning Experimentation]
+- 🛞 [CartPole Reinforcement Learning Experimentation] 
 - 🇸🇬 [ChatBot SG Tour Guide]
 - 📋 [Employee Policy Q&A System](https://github.com/shawnchow7/employee-policy-qa) - *AI-powered PDF document analysis*
 
