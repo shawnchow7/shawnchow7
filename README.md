@@ -50,6 +50,7 @@
 ## 👑 MAIN PROJECTS
 
 ### 🌐 Full-Stack
+- 🏋️ [Workout Buddy](https://github.com/shawnchow7/mern-workout-authentication)
 - 📘 [CareerFinder]
 
 ### 🤖 Data Science and AI
