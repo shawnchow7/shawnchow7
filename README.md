@@ -55,7 +55,7 @@
 ### 🤖 Data Science and AI
 - 🥀 [Simple FeedForward neural network](https://github.com/shawnchow7/simpleNeuralNetwork)
 - 🩺 [Organizing Medical Transcript](https://github.com/shawnchow7/Organizing-Medical-Transcript) - Using OpenAI
-- - 📋 [Employee Policy Q&A System](https://github.com/shawnchow7/employee-policy-qa) - *AI-powered PDF document analysis*
+- 📋 [Employee Policy Q&A System](https://github.com/shawnchow7/employee-policy-qa) - *AI-powered PDF document analysis*
 - 🍿 [Movie Revenue Prediction Model](https://github.com/shawnchow7/movie-prediction-revenue)
 - 🛞 [CartPole Reinforcement Learning Experimentation] 
 - 🇸🇬 [ChatBot SG Tour Guide]
