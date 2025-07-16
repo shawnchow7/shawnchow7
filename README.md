@@ -51,6 +51,7 @@
 
 ### 🌐 Full-Stack
 - 🏋️ [Workout Buddy](https://github.com/shawnchow7/mern-workout-authentication)
+- 🎮 [Choose-your-own-story-game](https://github.com/shawnchow7/Choose-your-own-Story-Game)
 - 📘 [CareerFinder]
 
 ### 🤖 Data Science and AI
