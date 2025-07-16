@@ -52,6 +52,7 @@
 ### 🌐 Full-Stack
 - 🏋️ [Workout Buddy](https://github.com/shawnchow7/mern-workout-authentication)
 - 🎮 [Choose-your-own-story-game](https://github.com/shawnchow7/Choose-your-own-Story-Game)
+- 🥤 [Simple CRUD full stack app, with backend as supabase](https://github.com/shawnchow7/supaBase-Full-Stack)
 - 📘 [CareerFinder]
 
 ### 🤖 Data Science and AI
