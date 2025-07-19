@@ -56,6 +56,7 @@
 - 📘 [CareerFinder]
 
 ### 🤖 Data Science and AI
+- 🧠 [ConvolutionalNeuralNetwork](https://github.com/shawnchow7/ConvolutionalNeuralNetwork) - MNIST Digit Classification
 - 🥀 [Simple FeedForward neural network](https://github.com/shawnchow7/simpleNeuralNetwork)
 - 🩺 [Organizing Medical Transcript](https://github.com/shawnchow7/Organizing-Medical-Transcript) - Using OpenAI
 - 📋 [Employee Policy Q&A System](https://github.com/shawnchow7/employee-policy-qa) - *AI-powered PDF document analysis*
