@@ -56,6 +56,7 @@
 - 📘 [CareerFinder]
 
 ### 🤖 Data Science and AI
+- 🤖 [CodeGPT](https://github.com/shawnchow7/CodeGPT) - Generative Pre-trained Transformer
 - 🧠 [ConvolutionalNeuralNetwork](https://github.com/shawnchow7/ConvolutionalNeuralNetwork) - MNIST Digit Classification
 - 🥀 [Simple FeedForward neural network](https://github.com/shawnchow7/simpleNeuralNetwork)
 - 🩺 [Organizing Medical Transcript](https://github.com/shawnchow7/Organizing-Medical-Transcript) - Using OpenAI
