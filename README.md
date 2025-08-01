@@ -47,25 +47,28 @@
 
 ---
 
-## 👑 MAIN PROJECTS
+## 👑 PROJECTS
 
 ### 🌐 Full-Stack
-- 🏋️ [Workout Buddy](https://github.com/shawnchow7/mern-workout-authentication)
-- 🎮 [Choose-your-own-story-game](https://github.com/shawnchow7/Choose-your-own-Story-Game)
-- 🥤 [Simple CRUD full stack app, with backend as supabase](https://github.com/shawnchow7/supaBase-Full-Stack)
-- 📘 [CareerFinder]
+- [Workout Buddy](https://github.com/shawnchow7/mern-workout-authentication)
+- [Choose-your-own-story-game](https://github.com/shawnchow7/Choose-your-own-Story-Game)
+- [Simple CRUD full stack app, with backend as supabase](https://github.com/shawnchow7/supaBase-Full-Stack)
+- [CareerFinder]
+
+### 🦾 Machine-Learning
+- [FineTuningGPT2](https://github.com/shawnchow7/FineTuningGPT2) - Fine tuning GPT2
+- [CodeGPT](https://github.com/shawnchow7/CodeGPT) - Generative Pre-trained Transformer
+- [ConvolutionalNeuralNetwork](https://github.com/shawnchow7/ConvolutionalNeuralNetwork) - MNIST Digit Classification
+- [Simple FeedForward neural network](https://github.com/shawnchow7/simpleNeuralNetwork)
 
 ### 🤖 Data Science and AI
-- 🤖 [CodeGPT](https://github.com/shawnchow7/CodeGPT) - Generative Pre-trained Transformer
-- 🧠 [ConvolutionalNeuralNetwork](https://github.com/shawnchow7/ConvolutionalNeuralNetwork) - MNIST Digit Classification
-- 🥀 [Simple FeedForward neural network](https://github.com/shawnchow7/simpleNeuralNetwork)
-- 🩺 [Organizing Medical Transcript](https://github.com/shawnchow7/Organizing-Medical-Transcript) - Using OpenAI
-- 📋 [Employee Policy Q&A System](https://github.com/shawnchow7/employee-policy-qa) - *AI-powered PDF document analysis*
-- 🍿 [Movie Revenue Prediction Model](https://github.com/shawnchow7/movie-prediction-revenue)
-- 🛞 [CartPole Reinforcement Learning Experimentation] 
-- 🇸🇬 [ChatBot SG Tour Guide]
+- [Organizing Medical Transcript](https://github.com/shawnchow7/Organizing-Medical-Transcript) - Using OpenAI
+- [Employee Policy Q&A System](https://github.com/shawnchow7/employee-policy-qa) - *AI-powered PDF document analysis*
+- [Movie Revenue Prediction Model](https://github.com/shawnchow7/movie-prediction-revenue)
+- [CartPole Reinforcement Learning Experimentation] 
+- [ChatBot SG Tour Guide]
 
 
 ### Others
-- 🏥 [Hospital Management System](https://github.com/shawnchow7/Hospital-Management-System)
+- [Hospital Management System](https://github.com/shawnchow7/Hospital-Management-System)
 
